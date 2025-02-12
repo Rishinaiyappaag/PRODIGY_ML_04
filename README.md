@@ -21,10 +21,6 @@ The **CNN model** consists of:
 - **MaxPooling Layers** for feature reduction
 - **Flatten & Fully Connected Layers** for classification
 - **Softmax Activation** for multi-class prediction
-
-
-   ```
-
 ## Dependencies
 - Python 3.x
 - TensorFlow/Keras
