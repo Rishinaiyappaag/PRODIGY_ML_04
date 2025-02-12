@@ -22,23 +22,7 @@ The **CNN model** consists of:
 - **Flatten & Fully Connected Layers** for classification
 - **Softmax Activation** for multi-class prediction
 
-## Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/hand-gesture-recognition.git
-   cd hand-gesture-recognition
-   ```
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the training script:
-   ```bash
-   python train.py
-   ```
-4. Run real-time gesture recognition:
-   ```bash
-   python recognize_gestures.py
+
    ```
 
 ## Dependencies
